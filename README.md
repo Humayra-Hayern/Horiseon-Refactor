@@ -1,9 +1,9 @@
 # Refactoring Horiseon Webpage
 Horiseon requested me to refactor their web application code so it is fine-tuned and follows accessibility standards. I was working with HTML and CSS for this task. After the completion of this project I have learnt how; 
-*to create a repository on GitHub, 
-*to format a HTML & CSS file, 
-*add comments to lines of code 
-*to commit and push changes to GitHub
+* to create a repository on GitHub, 
+* to format a HTML & CSS file, 
+* add comments to lines of code 
+* to commit and push changes to GitHub
 
 
 
