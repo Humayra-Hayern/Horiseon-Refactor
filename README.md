@@ -25,14 +25,14 @@ WHEN I view the title element
 THEN I find a concise, descriptive title
 ```
 
-## Appearance
+## Horiseon Webpage 
 The image below displays the web application's appearance to the user after being refactored and deployed: 
 
 ![Horiseon HomePage](https://user-images.githubusercontent.com/95111780/169420675-c30c4f63-18a8-42fd-a509-44a12c766be3.PNG)
 
 This layout is for desktop Web Browser's only. This website is not optimized at the moment for smaller screen sizes. 
 
-## Link
+## Links
 * https://humayra-hayern.github.io/Horiseon-Refactor-Code/
 
 
